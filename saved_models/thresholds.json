@@ -1,0 +1,6 @@
+{
+    "xgboost": 0.5,
+    "xgboost_ros": 0.5,
+    "balanced_rf_default": 0.5,
+    "balanced_rf_tuned": 0.93
+}

@@ -1,0 +1,16 @@
+#python virtual environment
+.venv/
+venv/
+
+#python temporary files
+__pycache__/
+*.pyc
+
+#pycharm files
+.idea/
+
+#macOS files
+.DS_Store
+
+# Original dataset (download separately from Kaggle)
+data/creditcard.csv
